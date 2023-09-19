@@ -1,2 +1,2 @@
 # curso-html-css-inicial
-# Dante Gonzalez
+# Autor: Eduardo Ignacio Denis
