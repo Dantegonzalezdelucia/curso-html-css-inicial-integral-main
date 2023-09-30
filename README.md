@@ -1,2 +1,2 @@
-# curso-html-css-inicial
+# curso-html-css-integrador-main
 # Autor: Eduardo Ignacio Denis
