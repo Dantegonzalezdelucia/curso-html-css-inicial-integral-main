@@ -1,2 +1,2 @@
-# curso-html-css-integrador-main
-# Autor: Eduardo Ignacio Denis
+# curso-html-css-integrador
+# Autor: Dante Gonzalez
