@@ -58,3 +58,27 @@ main{margin: 0em;}
     right: ;
     bottom: ;
 }
+
+.logo1 {
+display: flex;
+justify-content: flex-start
+}
+
+.separator {
+color: #ffffff;
+padding: 0 10px;
+}
+
+h2{
+    display: flex;
+    justify-content:center
+}
+
+ .sub1{ 
+    color: #ffffff;
+    position: absolute;
+    top:0% ;
+    left: ;
+    right:50%;
+    bottom: ;
+}
