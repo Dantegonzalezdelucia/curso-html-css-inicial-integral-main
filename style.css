@@ -74,11 +74,19 @@ h2{
     justify-content:center
 }
 
- .sub1{ 
-    color: #ffffff;
-    position: absolute;
-    top:0% ;
-    left: ;
-    right:50%;
-    bottom: ;
+.img2{
+
+   display: flex;
+   margin-top: 100px;
+   position: absolute;
+   
+  }
+
+.txt2 { 
+    color: #000000;
+padding-left:700px;
+display: flex;
+margin-bottom: 500px;
+margin-top: 250px;
 }
+
