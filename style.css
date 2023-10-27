@@ -1,6 +1,7 @@
 
 body{
 margin: 0px;    
+font-family: 'Lucida Console', sans-serif;
 
 }
 
@@ -36,6 +37,7 @@ ul {
 
 body {
     margin-top: 2.5em;
+    background-color: #001F3D;
 }
 
 main{margin: 0em;}
@@ -52,12 +54,14 @@ main{margin: 0em;}
 }
 
 .bienvenida p{
+
     color: #ffffff;
     position: absolute;
-    top:85% ;
+    top:70% ;
     left: ;
     right: ;
     bottom: ;
+    padding: 60px;
 }
 
 .logo1 {
@@ -70,46 +74,116 @@ color: #ffffff;
 padding: 0 10px;
 }
 
-h2{
-    display: flex;
-    justify-content:center
-    
+.imagen2{
+    width:; ;
+    height: ;
+
 }
 
-.img2{
 
-   display: flex;
-   margin-top: 100px;
-   position: absolute;
+.contenedor2 p{
+    text-shadow: #003366;
+  color: #ffffff;
+    position: absolute;
+    top: ;
+    left: 800px;
+    right: ;
+    bottom: -300px; ;
+    padding: 
+;
+}
   
-   
-  }
 
-.txt2 { 
-    color: #000000;
-padding-left:700px;
-display: flex;
-margin-bottom: 500px;
-margin-top: 250px;
-}
-.container {
+
+.container{
     display: flex;
-    flex-flow: row wrap;
+        flex-flow: row wrap;
 
-    justify-content: space-around;
-    align-items: center;
-
+        justify-content: space-around;
+        align-items: center;
+        
 }
+
+.txtt{
+
+    color: #ffffff;
+}
+    
 
 .container .card {
     box-sizing: border-box;
     flex-basis: calc(100%/3);
-   background-color: #003366;
+   
     padding: 20px;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
+}
+
+
+.imagen6{
+    width: 640px;
+
+}
+
+.contenedor6{
+    display: flex;
+    justify-content: left;
+    
+}
+
+.contenedor6 p{
+    color: #ffffff;
+    position: absolute;
+    top: ;
+    left: 600px;
+    right: ;
+    bottom:; ;
+    padding:200px 
+;
+}
+.imagen7{
+    width: ;
+    height: ;
+
+}
+
+.contenedor7{
+    display: flex;
+    justify-content: right;
+}
+
+.contenedor7 p{
+    color: #ffffff;
+    position: absolute;
+    top: ;
+    left: 600px;
+    right: ;
+    bottom:; ;
+    padding:200px 
+}
+
+.imagen8{
+    width: 640px; ;
+    height: ;
+
+}
+
+.contenedor8{
+    display: flex;
+    justify-content: left;
+}
+
+.contenedor8 p{
+    color: #ffffff;
+    position: absolute;
+    top: ;
+    left: 600px;
+    right: ;
+    bottom:; ;
+    padding:200px 
 }
 
