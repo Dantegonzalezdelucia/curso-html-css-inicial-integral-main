@@ -5,6 +5,7 @@ margin: 0px;
 }
 
 header {background-color: #001F3D;
+   
     padding: 6px;
 
     position: fixed;
@@ -72,6 +73,7 @@ padding: 0 10px;
 h2{
     display: flex;
     justify-content:center
+    
 }
 
 .img2{
@@ -79,6 +81,7 @@ h2{
    display: flex;
    margin-top: 100px;
    position: absolute;
+  
    
   }
 
@@ -88,5 +91,25 @@ padding-left:700px;
 display: flex;
 margin-bottom: 500px;
 margin-top: 250px;
+}
+.container {
+    display: flex;
+    flex-flow: row wrap;
+
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.container .card {
+    box-sizing: border-box;
+    flex-basis: calc(100%/3);
+   background-color: #003366;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
