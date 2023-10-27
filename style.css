@@ -17,7 +17,25 @@ header {background-color: #001F3D;
     z-index: 1;
 }
 
+.logotxt{
+    position: absolute;
+    top: px; ;
+    left: 60px;
+    right: ; ;
+    bottom: 20px;; ;
+    padding: px; 
+}
 
+.barra{
+
+    position: relative;
+    top: -45px;;
+    left: ;
+    right: ; ;
+    bottom: px;; ;
+    padding: px;
+
+}
 header a {
 
 text-decoration: none;
