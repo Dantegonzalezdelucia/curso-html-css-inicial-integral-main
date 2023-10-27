@@ -60,6 +60,7 @@ body {
 
 main{margin: 0em;}
 
+
 .bienvenida{
     width: 1820px;
     height: 700px;
@@ -92,11 +93,6 @@ color: #ffffff;
 padding: 0 10px;
 }
 
-.imagen2{
-    width:; ;
-    height: ;
-
-}
 
 
 .contenedor2 p{
@@ -112,6 +108,10 @@ padding: 0 10px;
 ;
 }
   
+.imagen2{
+
+    margin-top: 50px;
+}
 
 
 .container{
