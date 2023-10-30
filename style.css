@@ -244,6 +244,14 @@ h4{
    
 }
 
-.footer{
-background-color: #ffffff; 
+.footer {
+background-color: #003366;
+padding: 1em 0;
+text-align: center;
+margin-top: auto;
+}
+
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
 }
