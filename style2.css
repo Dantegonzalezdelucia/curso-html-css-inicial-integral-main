@@ -63,16 +63,69 @@ body{
         color: #ffffff;
         padding: 0 10px;
         }
-
         .footer {
             background-color: #003366;
             padding: 1em 0;
             text-align: center;
             margin-top: auto;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
             }
             
             .footer-row{
                 display: flex;
                 flex-wrap: wrap;
             }
+            
+            
+            .footerimg{
+              top: ;
+                left: ;
+                right: ; 
+                bottom:; 
+                padding: 
+            
+            }
+            
+            .copy{
+                display: flex;
+                justify-content: center;
+                position: relative;
+                top: ;
+                left: 700px; ;
+                right: ; 
+                bottom:; 
+                padding: 
+            }
+            
+            .icons{
+                display: flex;
+                justify-content: center;
+                position: relative;
+                top: 100px; ;
+                left: 1200px; ;
+                right: ; 
+                bottom:; 
+                padding:;
+                width: 10px;
+                height: 100px;
+            }
 
+            .fieldset{
+                padding: 100px;
+                color: #ffffff;
+            }
+            .form_container{
+                margin-top: 3em;
+                display: grid;
+                gap: 2.5;
+            }
+            .h1{
+                color: #ffffff;
+                display: flex;
+                justify-content: center;
+                font-size: xx-large;
+          
+               
+            }

@@ -67,9 +67,11 @@ main{margin: 0em;}
 }
 
 .bienvenida img{
-   
-    width: 100%;
+   display: flex;
+    width:90%;
     height: 100%;
+    padding: -30px;
+    
 }
 
 
@@ -112,6 +114,8 @@ padding: 0 10px;
 .imagen2{
 
     margin-top: 50px;
+
+    padding: 20px;
 }
 
 .body#boton{
@@ -171,6 +175,7 @@ display: block;
 
 .imagen6{
     width: 640px;
+    padding: 20px;
 
 }
 
@@ -194,6 +199,7 @@ display: block;
 .imagen7{
     width: ;
     height: ;
+    padding: 20px;
 
 }
 
@@ -216,7 +222,7 @@ display: block;
 .imagen8{
     width: 640px; ;
     height: ;
-
+padding: 20px;
 }
 
 .contenedor8{
@@ -249,9 +255,44 @@ background-color: #003366;
 padding: 1em 0;
 text-align: center;
 margin-top: auto;
+
 }
 
 .footer-row{
     display: flex;
     flex-wrap: wrap;
+}
+
+
+.footerimg{
+  top: ;
+    left: ;
+    right: ; 
+    bottom:; 
+    padding: 
+
+}
+
+.copy{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: ;
+    left: 700px; ;
+    right: ; 
+    bottom:; 
+    padding: 
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px; ;
+    left: 1200px; ;
+    right: ; 
+    bottom:; 
+    padding:;
+    width: 10px;
+    height: 100px;
 }

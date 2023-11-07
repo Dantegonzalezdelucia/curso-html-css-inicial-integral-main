@@ -8,6 +8,7 @@
     <meta name="description" content="Ejercicio">
     <meta name="author" content="Dante Gonzalez">
     <link rel="stylesheet" href="style2.css">
+    <script src="https://kit.fontawesome.com/1e4f4f5e75.js" crossorigin="anonymous"></script>
     <title>FULL GYM</title>
 
 </head>
@@ -63,45 +64,48 @@
     </header>
     </nav>
     <main>
-
         <h1> Formulario de Contacto </h1>
+
+
         <form action="" method="GET">
 
             <!-- Envio de Mail -->
-            <fieldset>
+           
+                <fieldset>
+                    <div class="form_container">
 
 
-                <label for="email">Email:</label>
-                <input type="email" name="email" required>
+                    <label for="email" style="color: #ffffff;">Email: </label>
+                    <input type="email" name="email" required>
 
-                <label for="nombre">Nombre:</label>
-                <input type="text" name="nombre">
+                    <label for="nombre" style="color: #ffffff;">Nombre:</label>
+                    <input type="text" name="nombre">
 
-                <label for="Apellido">Apellido:</label>
-                <input type="text" name="nombre">
+                    <label for="Apellido" style="color: #ffffff;">Apellido:</label>
+                    <input type="text" name="nombre">
 
-                <label for="Mensaje">Mensaje:</label>
-                <textarea name="Mensaje" cols="30" rows="10"></textarea>
+                    <label for="Mensaje" style="color: #ffffff;">Mensaje:</label>
+                    <textarea name="Mensaje" cols="30" rows="10"></textarea>
 
 
-
-            </fieldset>
-
+                </div>
+                </fieldset>
+           
             <!-- Opciones -->
             <fieldset>
 
 
                 <div>
                     <label for="checkboxMultiple"></label>
-                    <span>Recibir nuevas promociones a tu mail</span><input name="checkboxMultiple" type="checkbox"
-                        value="1">
+                    <span style="color: #ffffff;">Recibir nuevas promociones a tu mail</span><input
+                        name="checkboxMultiple" type="checkbox" value="1">
 
                 </div>
 
 
             </fieldset>
 
-            <button type="submit"> Enviar </button>
+            <button type="submit" style="color: #000000;"> Enviar </button>
 
         </form>
 
@@ -116,30 +120,30 @@
 
 
     <footer class="footer">
-        <div class="footer">
-            <div class="footer-row">
+        <div class="footer-row">
 
 
 
 
 
 
-                <div>
-                    <img src="" alt="imagen de facebook">
-                    <img src="" alt="imagen de mail">
-                    <img src="" alt="imagen de tiktok">
-                    <img src="" alt="imagen de instagram">
-                </div>
-
-
-
-                <span>Copyright</span>
-                <div>
-                    <img src="" alt="logo">
-                </div>
+            <div class="icons">
+                <i class="fa-brands fa-facebook fa-2xl" style="color: #ffffff;" alt="imagen de facebook"></i>
+                <i class="fa-brands fa-instagram fa-2xl" style="color: #ffffff;" alt="imagen de mail"></i>
+                <i class="fa-brands fa-tiktok fa-2xl" style="color: #ffffff;" alt="imagen de tiktok"></i>
 
             </div>
+
+
+
+            <span class="copy">Copyright</span>
+
+            <img class="footerimg" src="img\gym-7328168_1280.webp" width="150" height="160" alt="logo">
+
+
         </div>
+        </div>
+    </footer>
     </footer>
 
 
