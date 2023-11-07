@@ -8,6 +8,8 @@ body{
         width: 100%;
         box-sizing: border-box;
         z-index: 1;
+        top: 0px;
+    left: 0px;
     }
     
     .logotxt{
@@ -33,7 +35,8 @@ body{
     
     ul {
         position: absolute;
-      
+        right: 0px;
+        top: 0px;
         margin: 10px;
     }
     
@@ -96,9 +99,9 @@ body{
                 display: grid;
                 gap: 2.5;
             }
-            .h1{
+             h1 {
                 color: #ffffff;
-                display: flex;
-                justify-content: center;
-                font-size: xx-large;
+                padding: auto;
+               
+                
             }
