@@ -2,13 +2,10 @@
 body{
 margin: 0px;    
 font-family: 'Lucida Console', sans-serif;
-
 }
 
 header {background-color: #001F3D;
-   
     padding: 6px;
-
     position: fixed;
     top: 0px;
     left: 0px;
@@ -19,25 +16,15 @@ header {background-color: #001F3D;
 
 .logotxt{
     position: absolute;
-    top: px; ;
     left: 60px;
-    right: ; ;
-    bottom: 20px;; ;
-    padding: px; 
+    bottom: 20px;
 }
 
 .barra{
-
     position: relative;
-    top: -45px;;
-    left: ;
-    right: ; ;
-    bottom: px;; ;
-    padding: px;
-
+    top: -45px;
 }
 header a {
-
 text-decoration: none;
 color: #ffffff;
 }
@@ -48,8 +35,6 @@ ul li {
 
 ul {
     position: absolute;
-    right: 0px;
-    top: 0px;
     margin: 10px;
 }
 
@@ -71,7 +56,6 @@ main{margin: 0em;}
     width:90%;
     height: 100%;
     padding: -30px;
-    
 }
 
 
@@ -80,9 +64,6 @@ main{margin: 0em;}
     color: #ffffff;
     position: absolute;
     top:70% ;
-    left: ;
-    right: ;
-    bottom: ;
     padding: 60px;
 }
 
@@ -99,22 +80,16 @@ padding: 0 10px;
 
 
 .contenedor2 p{
-    
   color: #ffffff;
   text-shadow:15px 2px #003366;
     position: absolute;
-    top: ;
     left: 800px;
-    right: ;
-    bottom: -300px; ;
-    padding: 
+    bottom: -300px; ; 
 ;
 }
   
 .imagen2{
-
     margin-top: 50px;
-
     padding: 20px;
 }
 
@@ -124,7 +99,6 @@ display: block;
 }
 
 .txtt{
-
     color: #ffffff;
     text-shadow:15px 2px  #003366;
 }
@@ -142,9 +116,7 @@ display: block;
 .container .card {
     box-sizing: border-box;
     flex-basis: calc(100%/3);
-   
     padding: 20px;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -155,9 +127,7 @@ display: block;
 .container2 .card2 {
     box-sizing: border-box;
     flex-basis: calc(100%/3);
-   
     padding: 20px;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -167,7 +137,6 @@ display: block;
 .container2{
     display: flex;
         flex-flow: row wrap;
-
         justify-content: space-around;
         align-items: center;
         
@@ -176,31 +145,23 @@ display: block;
 .imagen6{
     width: 640px;
     padding: 20px;
-
 }
 
 .contenedor6{
     display: flex;
     justify-content: left;
-    
 }
 
 .contenedor6 p{
     text-shadow:15px 2px  #003366;
     color: #ffffff;
     position: absolute;
-    top: ;
     left: 600px;
-    right: ;
-    bottom:; ;
     padding:200px 
 ;
 }
 .imagen7{
-    width: ;
-    height: ;
     padding: 20px;
-
 }
 
 .contenedor7{
@@ -212,16 +173,12 @@ display: block;
     text-shadow:15px 2px  #003366;
     color: #ffffff;
     position: absolute;
-    top: ;
     left: 600px;
-    right: ;
-    bottom:; ;
     padding:200px 
 }
 
 .imagen8{
     width: 640px; ;
-    height: ;
 padding: 20px;
 }
 
@@ -234,10 +191,7 @@ padding: 20px;
     text-shadow:15px 2px  #003366;
     color: #ffffff;
     position: absolute;
-    top: ;
     left: 600px;
-    right: ;
-    bottom:; ;
     padding:200px 
 }
 
@@ -265,11 +219,6 @@ margin-top: auto;
 
 
 .footerimg{
-  top: ;
-    left: ;
-    right: ; 
-    bottom:; 
-    padding: 
 
 }
 
@@ -277,11 +226,7 @@ margin-top: auto;
     display: flex;
     justify-content: center;
     position: relative;
-    top: ;
     left: 700px; ;
-    right: ; 
-    bottom:; 
-    padding: 
 }
 
 .icons{
@@ -290,9 +235,6 @@ margin-top: auto;
     position: relative;
     top: 100px; ;
     left: 1200px; ;
-    right: ; 
-    bottom:; 
-    padding:;
     width: 10px;
     height: 100px;
 }

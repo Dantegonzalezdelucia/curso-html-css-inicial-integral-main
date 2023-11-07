@@ -1,16 +1,10 @@
 body{
-    margin: 0px;    
     font-family: 'Lucida Console', sans-serif;
-    
     }
     
     header {background-color: #003366;
-       
         padding: 6px;
-    
         position: fixed;
-        top: 0px;
-        left: 0px;
         width: 100%;
         box-sizing: border-box;
         z-index: 1;
@@ -18,21 +12,13 @@ body{
     
     .logotxt{
         position: absolute;
-        top: px; ;
         left: 60px;
-        right: ; ;
-        bottom: 20px;; ;
-        padding: px; 
-    }
+        bottom: 20px;    }
     
     .barra{
     color: #ffffff;
         position: relative;
-        top: -45px;;
-        left: ;
-        right: ; ;
-        bottom: px;; ;
-        padding: px;
+        top: -45px;
     
     }
     header a {
@@ -47,8 +33,7 @@ body{
     
     ul {
         position: absolute;
-        right: 0px;
-        top: 0px;
+      
         margin: 10px;
     }
     
@@ -80,11 +65,7 @@ body{
             
             
             .footerimg{
-              top: ;
-                left: ;
-                right: ; 
-                bottom:; 
-                padding: 
+            
             
             }
             
@@ -92,11 +73,8 @@ body{
                 display: flex;
                 justify-content: center;
                 position: relative;
-                top: ;
-                left: 700px; ;
-                right: ; 
-                bottom:; 
-                padding: 
+                left: 700px; 
+               
             }
             
             .icons{
@@ -105,9 +83,6 @@ body{
                 position: relative;
                 top: 100px; ;
                 left: 1200px; ;
-                right: ; 
-                bottom:; 
-                padding:;
                 width: 10px;
                 height: 100px;
             }
@@ -126,6 +101,4 @@ body{
                 display: flex;
                 justify-content: center;
                 font-size: xx-large;
-          
-               
             }
